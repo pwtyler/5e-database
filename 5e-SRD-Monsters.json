@@ -4848,13 +4848,13 @@
                             "fog cloud",
                             "light"
                         ],
-                        "3\/day_each": [
+                        "3_per_day_each": [
                             "feather fall",
                             "fly",
                             "misty step",
                             "telekinesis"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "control weather",
                             "gaseous form"
                         ]
@@ -5085,7 +5085,7 @@
                             "detect magic",
                             "detect thoughts"
                         ],
-                        "3\/day_each": [
+                        "3_per_day_each": [
                             "bless",
                             "create food and water",
                             "cure wounds",
@@ -5094,7 +5094,7 @@
                             "sanctuary",
                             "shield"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "dream",
                             "greater restoration",
                             "scrying"
@@ -5500,7 +5500,7 @@
                         "at_will": [
                             "nondetection (self only)"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "blindness\/deafness",
                             "blur",
                             "disguise self"
@@ -5607,7 +5607,7 @@
                         "at_will": [
                             "detect evil and good"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "commune",
                             "raise dead"
                         ]
@@ -5742,7 +5742,7 @@
                             "detect magic",
                             "thunderwave 3\/day each"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "conjure elemental (air elemental only)",
                             "creation",
                             "gaseous form",
@@ -6044,7 +6044,7 @@
                         "at_will": [
                             "dancing lights"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "darkness",
                             "faerie fire"
                         ]
@@ -6141,7 +6141,7 @@
                         "at_will": [
                             "dancing lights"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "darkness",
                             "faerie fire"
                         ]
@@ -6284,11 +6284,11 @@
                         "at_will": [
                             "druidcraft"
                         ],
-                        "3\/day_each": [
+                        "3_per_day_each": [
                             "entangle",
                             "goodberry"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "barkskin",
                             "pass without trace",
                             "shillelagh"
@@ -6590,11 +6590,11 @@
                         "at_will": [
                             "detect magic"
                         ],
-                        "3\/day": [
+                        "3_per_day": [
                             "enlarge\/reduce",
                             "tongues"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "conjure elemental (fire elemental only)",
                             "gaseous form",
                             "invisibility",
@@ -9051,7 +9051,7 @@
                             "detect magic",
                             "dispel magic"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "confusion",
                             "fly",
                             "power word stun"
@@ -12968,7 +12968,7 @@
                             "detect magic",
                             "magic missile"
                         ],
-                        "2\/day_each": [
+                        "2_per_day_each": [
                             "plane shift (self only)",
                             "ray of enfeeblement",
                             "sleep"
@@ -13367,7 +13367,7 @@
                             "darkness",
                             "invisibility"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "charm person",
                             "cone of cold",
                             "gaseous form",
@@ -13832,7 +13832,7 @@
                             "detect magic",
                             "fireball"
                         ],
-                        "3\/day_each": [
+                        "3_per_day_each": [
                             "hold monster",
                             "wall of fire"
                         ]
@@ -13929,13 +13929,13 @@
                             "detect evil and good",
                             "invisibility (self only)"
                         ],
-                        "3\/day_each": [
+                        "3_per_day_each": [
                             "blade barrier",
                             "dispel evil and good",
                             "flame strike",
                             "raise dead"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "commune",
                             "control weather",
                             "insect plague"
@@ -14499,14 +14499,14 @@
                             "mage hand",
                             "minor illusion"
                         ],
-                        "3\/day_each": [
+                        "3_per_day_each": [
                             "charm person",
                             "detect magic",
                             "invisibility",
                             "major image",
                             "suggestion"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "dominate person",
                             "fly",
                             "plane shift",
@@ -15867,12 +15867,12 @@
                             "detect evil and good",
                             "invisibility (self only)"
                         ],
-                        "3\/day_each": [
+                        "3_per_day_each": [
                             "blade barrier",
                             "dispel evil and good",
                             "resurrection"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "commune",
                             "control weather"
                         ]
@@ -16517,7 +16517,7 @@
                             "levitate",
                             "light"
                         ],
-                        "3\/day_each": [
+                        "3_per_day_each": [
                             "control weather",
                             "water breathing"
                         ]
@@ -17607,7 +17607,7 @@
                             "druidcraft",
                             "pass without trace"
                         ],
-                        "1\/day_each": [
+                        "1_per_day_each": [
                             "calm emotions",
                             "dispel evil and good",
                             "entangle"
