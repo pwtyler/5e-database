@@ -4843,18 +4843,18 @@
                     "spellcasting_dc": 0,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect magic",
                             "fog cloud",
                             "light"
                         ],
-                        "3\/day each": [
+                        "3\/day_each": [
                             "feather fall",
                             "fly",
                             "misty step",
                             "telekinesis"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "control weather",
                             "gaseous form"
                         ]
@@ -5080,12 +5080,12 @@
                     "spellcasting_dc": 14,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect evil and good",
                             "detect magic",
                             "detect thoughts"
                         ],
-                        "3\/day each": [
+                        "3\/day_each": [
                             "bless",
                             "create food and water",
                             "cure wounds",
@@ -5094,7 +5094,7 @@
                             "sanctuary",
                             "shield"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "dream",
                             "greater restoration",
                             "scrying"
@@ -5497,10 +5497,10 @@
                     "spellcasting_dc": 11,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "nondetection (self only)"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "blindness\/deafness",
                             "blur",
                             "disguise self"
@@ -5604,10 +5604,10 @@
                     "spellcasting_dc": 17,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect evil and good"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "commune",
                             "raise dead"
                         ]
@@ -5737,12 +5737,12 @@
                     "spellcasting_dc": 17,
                     "spellcasting_modifier": 9,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect evil and good",
                             "detect magic",
                             "thunderwave 3\/day each"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "conjure elemental (air elemental only)",
                             "creation",
                             "gaseous form",
@@ -6041,10 +6041,10 @@
                     "spellcasting_dc": 13,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "dancing lights"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "darkness",
                             "faerie fire"
                         ]
@@ -6138,10 +6138,10 @@
                     "spellcasting_dc": 11,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "dancing lights"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "darkness",
                             "faerie fire"
                         ]
@@ -6281,14 +6281,14 @@
                     "spellcasting_dc": 14,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "druidcraft"
                         ],
-                        "3\/day each": [
+                        "3\/day_each": [
                             "entangle",
                             "goodberry"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "barkskin",
                             "pass without trace",
                             "shillelagh"
@@ -6587,14 +6587,14 @@
                     "spellcasting_dc": 15,
                     "spellcasting_modifier": 7,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect magic"
                         ],
                         "3\/day": [
                             "enlarge\/reduce",
                             "tongues"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "conjure elemental (fire elemental only)",
                             "gaseous form",
                             "invisibility",
@@ -9046,12 +9046,12 @@
                     "spellcasting_dc": 16,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "darkness",
                             "detect magic",
                             "dispel magic"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "confusion",
                             "fly",
                             "power word stun"
@@ -9577,7 +9577,7 @@
                     "spellcasting_dc": 12,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "dancing lights",
                             "minor illusion",
                             "vicious mockery"
@@ -12964,11 +12964,11 @@
                     "spellcasting_dc": 14,
                     "spellcasting_modifier": 6,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect magic",
                             "magic missile"
                         ],
-                        "2\/day each": [
+                        "2\/day_each": [
                             "plane shift (self only)",
                             "ray of enfeeblement",
                             "sleep"
@@ -13363,11 +13363,11 @@
                     "spellcasting_dc": 13,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "darkness",
                             "invisibility"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "charm person",
                             "cone of cold",
                             "gaseous form",
@@ -13828,11 +13828,11 @@
                     "spellcasting_dc": 21,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect magic",
                             "fireball"
                         ],
-                        "3\/day each": [
+                        "3\/day_each": [
                             "hold monster",
                             "wall of fire"
                         ]
@@ -13925,17 +13925,17 @@
                     "spellcasting_dc": 20,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect evil and good",
                             "invisibility (self only)"
                         ],
-                        "3\/day each": [
+                        "3\/day_each": [
                             "blade barrier",
                             "dispel evil and good",
                             "flame strike",
                             "raise dead"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "commune",
                             "control weather",
                             "insect plague"
@@ -14493,20 +14493,20 @@
                     "spellcasting_dc": 18,
                     "spellcasting_modifier": 10,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect thoughts",
                             "disguise self",
                             "mage hand",
                             "minor illusion"
                         ],
-                        "3\/day each": [
+                        "3\/day_each": [
                             "charm person",
                             "detect magic",
                             "invisibility",
                             "major image",
                             "suggestion"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "dominate person",
                             "fly",
                             "plane shift",
@@ -15863,16 +15863,16 @@
                     "spellcasting_dc": 25,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect evil and good",
                             "invisibility (self only)"
                         ],
-                        "3\/day each": [
+                        "3\/day_each": [
                             "blade barrier",
                             "dispel evil and good",
                             "resurrection"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "commune",
                             "control weather"
                         ]
@@ -16511,13 +16511,13 @@
                     "spellcasting_dc": 17,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect magic",
                             "feather fall",
                             "levitate",
                             "light"
                         ],
-                        "3\/day each": [
+                        "3\/day_each": [
                             "control weather",
                             "water breathing"
                         ]
@@ -17602,12 +17602,12 @@
                     "spellcasting_dc": 14,
                     "spellcasting_modifier": 0,
                     "spells": {
-                        "At will": [
+                        "at_will": [
                             "detect evil and good",
                             "druidcraft",
                             "pass without trace"
                         ],
-                        "1\/day each": [
+                        "1\/day_each": [
                             "calm emotions",
                             "dispel evil and good",
                             "entangle"
